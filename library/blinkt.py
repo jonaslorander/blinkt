@@ -5,8 +5,8 @@ import RPi.GPIO as GPIO
 
 __version__ = '0.1.0'
 
-DAT = 23
-CLK = 24
+DAT = 20
+CLK = 21
 NUM_PIXELS = 8
 BRIGHTNESS = 7
 

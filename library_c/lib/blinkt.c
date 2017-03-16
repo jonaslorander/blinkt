@@ -12,8 +12,8 @@
 #define DEFAULT_BRIGHTNESS 7
 #define NUM_LEDS 8
 
-#define MOSI 23
-#define SCLK 24
+#define MOSI 20
+#define SCLK 21
 
 #ifdef TEST
 volatile int running = 0;
